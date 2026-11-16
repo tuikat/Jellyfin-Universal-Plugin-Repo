@@ -225,6 +225,7 @@ https://raw.githubusercontent.com/Thomas05000005/MaintenanceDeluxe-jellyfin-plug
 https://raw.githubusercontent.com/toastyice/DeoVRDeeplink/master/manifest.json | https://github.com/Toastyice/DeoVRDeeplink
 https://raw.githubusercontent.com/Tracearr/Media-Server-SSE/main/manifest.json | https://github.com/Tracearr/Media-Server-SSE
 https://raw.githubusercontent.com/tubearchivist/tubearchivist-jf-plugin/master/manifest.json | https://github.com/tubearchivist/tubearchivist-jf-plugin
+https://raw.githubusercontent.com/tuikat/commentarr/main/manifest.json | https://github.com/tuikat/commentarr
 https://raw.githubusercontent.com/Ubaidofficial/Playback-info-card/main/manifest.json | https://github.com/Ubaidofficial/Playback-info-card
 https://raw.githubusercontent.com/UlysseM/jellyfin-plugin-httpauth/gh-pages/repository.json | https://github.com/UlysseM/jellyfin-plugin-httpauth
 https://raw.githubusercontent.com/upchui/Jellyfin-DirectPlayForce/main/manifest.json | https://github.com/upchui/Jellyfin-DirectPlayForce
